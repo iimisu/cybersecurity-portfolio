@@ -129,7 +129,7 @@ My ultimate goal is to become a Certified Ethical Hacker (CEH) and work in a Sec
 
 Feel free to reach out to me via the following platforms:  
 
-- **GitHub:** [kk]((https://github.com/iimisu))  
+- **GitHub:** https://github.com/iimisu
 
 ## GitHub Pages
 
