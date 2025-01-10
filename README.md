@@ -64,7 +64,7 @@ Learned the basic principles of cybersecurity, including cryptography, network d
 
 Below are two key projects that I have completed to demonstrate my practical skills in cybersecurity:
 
-### ** Project 1: Comprehensive Vulnerability Assessment**
+### **Project 1: Comprehensive Vulnerability Assessment**
 **Objective:** Conducted a vulnerability assessment on local and external-facing assets to identify and mitigate security risks, leveraging both passive and active reconnaissance techniques.  
 **Tools Used:** Shodan, Nmap, Dirsearch, Sublist3r, Xray, Metasploit  
 
@@ -125,3 +125,12 @@ Participate in Capture the Flag (CTF) challenges to hone practical skills.
 
 My ultimate goal is to become a Certified Ethical Hacker (CEH) and work in a Security Operations Center (SOC) as a Threat Analyst or Penetration Tester. I aim to specialize in proactive threat hunting, vulnerability management, and helping organizations secure their digital infrastructure.
 
+## Contact Information
+
+Feel free to reach out to me via the following platforms:  
+
+- **GitHub:** [kk]((https://github.com/iimisu))  
+
+## GitHub Pages
+
+This portfolio is also available as a live website: 
