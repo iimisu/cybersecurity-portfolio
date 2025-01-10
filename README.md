@@ -19,19 +19,47 @@ Hi! My name is KK, and I am a cybersecurity enthusiast dedicated to learning and
 **Web Application Security Tools:** AWVS,Nessus 
 
 ### Programming Languages:
-Python  
-Bash  
-Java  
-Golang  
+- Python  
+- Bash  
+- Java  
+- Golang  
 
 ### Concepts and Frameworks:
-**Vulnerability Management:** Identifying, assessing, and mitigating vulnerabilities in systems and networks  
-**Incident Response Lifecycle:** Detection, identification, containment, eradication, recovery, and lessons learned  
-**Secure Software Development Lifecycle (SDLC):** Security measures integrated into each phase of software development  
-**Networking (TCP/IP, Firewalls, VPN, DNS):** Understanding and securing network protocols, configuring and maintaining firewalls, securing virtual private networks (VPNs)  
-**Threat Intelligence:** Collecting, analyzing, and disseminating actionable information regarding potential cyber threats  
-**Risk Management:** Identifying, assessing, and prioritizing risks to systems and data, followed by implementation of mitigation measures  
-**Advanced Persistent Threats (APT):** Identifying and defending against prolonged and targeted cyberattacks  
-**Red Team / Blue Team Exercises:** Offensive (Red) and defensive (Blue) security practices to simulate and defend against real-world attacks  
-**Social Engineering:** Manipulating people to gain unauthorized access to systems or data  
-**Zero Trust Architecture:** Designing systems with the assumption that threats exist both inside and outside the network  
+**1.Vulnerability Management:** Identifying, assessing, and mitigating vulnerabilities in systems and networks  
+**2.Incident Response Lifecycle:** Detection, identification, containment, eradication, recovery, and lessons learned 
+**3.Secure Software Development Lifecycle (SDLC):** Security measures integrated into each phase of software development  
+**4.Networking (TCP/IP, Firewalls, VPN, DNS):** Understanding and securing network protocols, configuring and maintaining firewalls, securing virtual private networks (VPNs)  
+**5.Threat Intelligence:** Collecting, analyzing, and disseminating actionable information regarding potential cyber threats  
+**6.Risk Management:** Identifying, assessing, and prioritizing risks to systems and data, followed by implementation of mitigation measures  
+**7.Advanced Persistent Threats (APT):** Identifying and defending against prolonged and targeted cyberattacks 
+**8.Red Team / Blue Team Exercises:** Offensive (Red) and defensive (Blue) security practices to simulate and defend against real-world attacks  
+**9.Social Engineering:** Manipulating people to gain unauthorized access to systems or data  
+**10.Zero Trust Architecture:** Designing systems with the assumption that threats exist both inside and outside the network  
+
+## Certifications and Training
+
+Below are my completed and ongoing certifications, along with additional training and platforms I use to enhance my cybersecurity skills:
+
+### Certifications:
+- **CompTIA Security+** (Completed)  
+- **Certified Information Security Professional (CISP)** (Completed)  
+- **HTB Certified Penetration Testing Specialist(CPTS)** (In Progress)  
+
+### Training and Platforms:
+**Hack The Box (HTB):**  
+Active member of HTB, solving real-world penetration testing challenges and improving my hands-on hacking skills.  
+Completed multiple machines in categories like web exploitation, privilege escalation, and reverse engineering.  
+
+**TryHackMe:**  
+Regularly practice cybersecurity scenarios and labs to gain practical experience.  
+
+**OWASP Top 10 Workshop:**  
+Hands-on workshop focused on web application security vulnerabilities listed in the OWASP Top 10.  
+Explored real-world examples of SQL Injection, Cross-Site Scripting (XSS), and Insecure Deserialization.  
+
+**Cybersecurity by Cisco Networking Academy:**  
+Learned the basic principles of cybersecurity, including cryptography, network defense, and threat intelligence. 
+
+
+
+
