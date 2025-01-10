@@ -7,3 +7,31 @@ Hi! My name is KK, and I am a cybersecurity enthusiast dedicated to learning and
 **Current Role**: Student  
 **Passion**: I have a strong interest in penetration testing and helping companies enhance their security posture. Sometimes, I participate in bug bounty programs and stay updated on the latest security trends.  
 **Fun Facts**: When I'm not working on cybersecurity, I enjoy singing, coding, gaming, and exploring new technologies.  
+
+## Technical Skills
+
+### Tools:
+**Network Analysis:** Wireshark, tcpdump
+**Penetration Testing:** Metasploit, Burp Suite, Cobalt Strike, Kali, Nikto,nmap 
+**Malware Analysis:** IDA Pro, Ghidra, Hybrid Analysis, Volatility, Cuckoo Sandbox  
+**SIEM Tools:** Splunk, ELK Stack, Graylog, AlienVault  
+**Cloud Security Tools:** AWS Inspector, Azure Security Center, Google Cloud Security Command Center  
+**Web Application Security Tools:** AWVS,Nessus 
+
+### Programming Languages:
+Python  
+Bash  
+Java  
+Golang  
+
+### Concepts and Frameworks:
+**Vulnerability Management:** Identifying, assessing, and mitigating vulnerabilities in systems and networks  
+**Incident Response Lifecycle:** Detection, identification, containment, eradication, recovery, and lessons learned  
+**Secure Software Development Lifecycle (SDLC):** Security measures integrated into each phase of software development  
+**Networking (TCP/IP, Firewalls, VPN, DNS):** Understanding and securing network protocols, configuring and maintaining firewalls, securing virtual private networks (VPNs)  
+**Threat Intelligence:** Collecting, analyzing, and disseminating actionable information regarding potential cyber threats  
+**Risk Management:** Identifying, assessing, and prioritizing risks to systems and data, followed by implementation of mitigation measures  
+**Advanced Persistent Threats (APT):** Identifying and defending against prolonged and targeted cyberattacks  
+**Red Team / Blue Team Exercises:** Offensive (Red) and defensive (Blue) security practices to simulate and defend against real-world attacks  
+**Social Engineering:** Manipulating people to gain unauthorized access to systems or data  
+**Zero Trust Architecture:** Designing systems with the assumption that threats exist both inside and outside the network  
